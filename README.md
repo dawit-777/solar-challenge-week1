@@ -1,4 +1,3 @@
-Ah, thank you for clarifying — yes! You **should include steps 1 to 5** (the ones about setting up the environment) in your `README.md`. Those steps are essential for anyone who clones your project and wants to run it locally.
 
 ---
 
