@@ -1,11 +1,5 @@
 
----
 
-### ✅ Here's what to include in `README.md`:
-
-Copy and paste the following into your `README.md` (replace `your-username/your-repo-name` with your actual GitHub repo path):
-
-````markdown
 ## 📦 Reproduce the Environment
 
 Follow these steps to set up the development environment:
