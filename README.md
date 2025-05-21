@@ -58,13 +58,4 @@ pytest
 
 ---
 
-This makes your project **easy to set up for anyone**, including teammates, recruiters, or open source collaborators.
 
-Let me know if you’d like to add sections like:
-- About the project
-- Features
-- Usage examples
-- Contribution guide
-
-Happy to help with those too!
-```
